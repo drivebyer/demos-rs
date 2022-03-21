@@ -1,2 +1,2 @@
 [workspace]
-members = ["simple-future", "rustlings"]
+members = ["simple-future", "rustlings", "mini-http"]
