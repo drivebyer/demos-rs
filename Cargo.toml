@@ -1,2 +1,9 @@
 [workspace]
-members = ["simple-future", "rustlings", "mini-http"]
+members = [
+    "simple-future",
+    "rustlings",
+    "mini-http",
+    "shorter-url",
+    "mysql-guarder",
+    "kv",
+]
